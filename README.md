@@ -19,8 +19,11 @@ To have fun learning and creating along the way 🎯
 
 📅 Progress
 ✅ Day 1: Introduction
+
 ✅ Day 2: Variables and built-in functions
+
 ⬜ Day 3: …
+
 ⬜ … up to Day 30
 
 (I’ll update this as I go!)
