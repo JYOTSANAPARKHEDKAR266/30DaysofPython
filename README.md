@@ -18,6 +18,7 @@ To build a habit of coding every single day 💻
 To have fun learning and creating along the way 🎯
 
 📅 Progress
+
 ✅ Day 1: Introduction
 
 ✅ Day 2: Variables and built-in functions
