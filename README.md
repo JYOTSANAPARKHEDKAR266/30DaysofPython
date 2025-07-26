@@ -25,7 +25,7 @@ To have fun learning and creating along the way 🎯
 
 ✅Day 3: Operators
 
-✅Day 3: Strings
+✅Day 4: Strings
 
 
 ⬜ … up to Day 30
