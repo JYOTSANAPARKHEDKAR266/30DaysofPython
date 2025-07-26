@@ -23,7 +23,10 @@ To have fun learning and creating along the way 🎯
 
 ✅ Day 2: Variables and built-in functions
 
-⬜ Day 3: Operators
+✅Day 3: Operators
+
+✅Day 3: Strings
+
 
 ⬜ … up to Day 30
 
